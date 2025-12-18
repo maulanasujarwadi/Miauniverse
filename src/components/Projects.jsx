@@ -6,7 +6,7 @@ const projectsData = [
         title: "Redesign Coffe Shop",
         category: "UI/UX",
         description: "Redesign a coffee shop app using Figma",
-        image: "/images/project/coffe.png",
+        image: "./images/project/coffe.png",
         tag: "UI/UX"
     },
     {
@@ -14,7 +14,7 @@ const projectsData = [
         title: "PDD Sanjai",
         category: "Art",
         description: "Editor for Sanjai Team, during the student exchange program.",
-        image: "/images/project/IMG_3167.JPG",
+        image: "./images/project/IMG_3167.JPG",
         tag: "Art"
     },
     {
@@ -22,7 +22,7 @@ const projectsData = [
         title: "Web Application Travel Book",
         category: "Development",
         description: " I was completed a web-based application project. The application is equipped with a user authentication feature, in the application there are several pages consisting of SignIn / SignUp, Home, Category, Details, Booking Details, Checkout, Payment, Schedule, and Trip Details pages.",
-        image: "/images/project/Web Application Travel Book.png",
+        image: "./images/project/Web Application Travel Book.png",
         tag: "App"
     },
     {
@@ -30,7 +30,7 @@ const projectsData = [
         title: "Practice Web Portfolio Using Wordpess",
         category: "UI/UX",
         description: "I have created a portfolio web page design to fill a seminar event on campus. The application I use to build a web consists of Figma, Wordpress and a site to host the web page.",
-        image: "/images/project/Practice Web Portfolio Using Wordpess.png",
+        image: "./images/project/Practice Web Portfolio Using Wordpess.png",
         tag: "UI/UX",
         colSpan: true
     },
@@ -39,7 +39,7 @@ const projectsData = [
         title: "GoNA",
         category: "UI/UX",
         description: "Created a prototype of a travel application for a business competition held by LPDP RI with the concept of technology.",
-        image: "/images/project/gona.png",
+        image: "./images/project/gona.png",
         tag: "App"
     },
     {
@@ -47,7 +47,7 @@ const projectsData = [
         title: "Poster",
         category: "Art",
         description: "poster design in a competition held by UINSSC",
-        image: "/images/project/IMG_3165.JPG",
+        image: "./images/project/IMG_3165.JPG",
         tag: "Art"
     },
     {
@@ -55,7 +55,7 @@ const projectsData = [
         title: "Zalfana Store",
         category: "Development",
         description: "Creating a web page for an online store using Wordpress and designed using Figma.",
-        image: "/images/project/zalfana.png",
+        image: "./images/project/zalfana.png",
         tag: "Web"
     },
     {
@@ -63,7 +63,7 @@ const projectsData = [
         title: "VR Concept",
         category: "UI/UX",
         description: "Has created vr concept and animation effects in Figma.",
-        image: "/images/project/vr.png",
+        image: "./images/project/vr.png",
         tag: "Virtual Reality"
     },
     {
@@ -71,7 +71,7 @@ const projectsData = [
         title: "Web Plants UI",
         category: "UI/UX",
         description: "Simple display of a houseplant web store.",
-        image: "/images/project/IMG_3166.JPG",
+        image: "./images/project/IMG_3166.JPG",
         tag: "UI/UX"
     },
     {
@@ -79,7 +79,7 @@ const projectsData = [
         title: "Art in the Lens",
         category: "Art",
         description: "Capturing every activity through a lens.",
-        image: "/images/project/IMG_3169.JPG",
+        image: "./images/project/IMG_3169.JPG",
         tag: "Art"
     }
 ];

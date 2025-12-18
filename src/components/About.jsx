@@ -24,7 +24,7 @@ const About = () => {
                             <img
                                 className="w-full h-full object-cover filter brightness-90 contrast-110 hover:scale-105 transition-transform duration-500"
                                 alt="Professional headshot"
-                                src="/images/WhatsApp Image 2025-12-17 at 13.32.07.jpeg"
+                                src="./images/WhatsApp Image 2025-12-17 at 13.32.07.jpeg"
                             />
                             {/* Glint effect */}
                             <div className="absolute inset-0 bg-gradient-to-tr from-transparent via-white/10 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 pointer-events-none"></div>
