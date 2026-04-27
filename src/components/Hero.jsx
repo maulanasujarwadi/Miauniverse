@@ -45,7 +45,7 @@ const Hero = () => {
                             {/* Main Typography */}
                             <div className="space-y-6 flex flex-col items-center">
                                 <h1 className="text-5xl sm:text-7xl lg:text-8xl font-black tracking-[-0.03em] leading-[0.9] text-slate-900 dark:text-white drop-shadow-sm">
-                                    Miauniverse
+                                    Maulana Sujarwadi
                                 </h1>
                                 <h2 className="text-xl sm:text-2xl md:text-3xl font-medium tracking-tight text-transparent bg-clip-text bg-gradient-to-r from-primary via-emerald-500 dark:via-emerald-200 to-primary bg-[length:200%_auto] animate-[gradient_3s_linear_infinite]">
                                     UI/UX Designer and Developer
